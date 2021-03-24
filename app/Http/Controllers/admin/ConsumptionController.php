@@ -9,6 +9,7 @@ use Illuminate\Support\Facades\Session;
 class ConsumptionController extends Controller
 {
 //    商品页面
+//   我来了
     public function index()
     {
         return view('consumption/list');
